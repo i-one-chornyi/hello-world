@@ -1,6 +1,8 @@
 * {
   margin: 0;
   padding: 0;
+  color: black;
+  font-family: "Anton", sans-serif;
 }
 body {
   height: 100vh;
@@ -19,4 +21,23 @@ body {
     #0077e8,
     #1f5ede
   );
+  font-family: "Anton", sans-serif;
+}
+header {
+  height: 10%;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  font-size: 25px;
+}
+
+li {
+  display: inline;
+}
+a {
+  text-decoration: none;
 }
