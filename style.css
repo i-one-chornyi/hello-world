@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+  background-image: linear-gradient(
+    to bottom,
+    #a4efed,
+    #92e7e9,
+    #7fe0e5,
+    #6bd8e1,
+    #54d0de,
+    #3bc7e1,
+    #20bde3,
+    #00b2e4,
+    #00a0e9,
+    #008deb,
+    #0077e8,
+    #1f5ede
+  );
+}
